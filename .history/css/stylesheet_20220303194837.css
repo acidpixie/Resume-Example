@@ -71,6 +71,7 @@ body{
   }
 
  
+
   h3 a{
     text-decoration: none;
     color: #288b39;
@@ -84,10 +85,9 @@ body{
     height: auto;
   }
 
-/* styling content in header */ 
 .Box {
   display: flex;
-  justify-content: space-between;
+  justify-content:space-between;
   flex-direction: row-reverse;
   }
 
